@@ -1,0 +1,76 @@
+
+html {
+    font-size: 10px;
+    font-family: 'Open Sans', sans-serif;
+  }
+
+  .elements {
+    margin: 0;
+    padding: 0.3rem;
+    background-color: #eee;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+
+.element {
+    margin: 0.5rem;
+    padding: 0.3rem;
+    background-color: burlywood;
+    font-size: 1.6rem;
+}
+.example {
+    margin: 0.5rem;
+    padding: 0.3rem;
+    background-color:whitesmoke;
+    font-size: 1.6rem;
+    text-align: left;
+}
+
+
+  .image {
+    width: 250px;
+}
+
+p{
+    text-align: center;
+    font-size: 120%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0.1rem 0;
+}
+
+h1 {
+    font-size: 4rem;
+}
+
+h2 {
+    font-size: 3.5rem;
+    padding-left: 20px;
+}
+
+h3 {
+    font-size: 3rem;
+    padding-left: 40px;
+}
+
+h4 {
+    font-size: 2.5rem;
+    font-style: italic;
+    padding-left: 60px;
+}
+
+h5{
+    font-size: 2rem;
+    padding-left: 80px;
+}
+
+h6{
+    font-size: 1.5rem;
+    padding-left: 100px;
+}
